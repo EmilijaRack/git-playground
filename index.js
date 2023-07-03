@@ -5,3 +5,4 @@ function iWillHaveConflicts(a, b) {
 }
 
 console.log(iWillHaveConflicts(10, 12));
+alert("Hi")
